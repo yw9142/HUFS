@@ -1,0 +1,8 @@
+Project #3 
+제목 Groovy Sort Program(FiveCards)
+제출기한 2020-05-24(수)
+
+내용
+1. GroovySort를 수정
+2. SortTest5Cards에서는 FiveCards의 reorder 후 사전식 순서로 sort
+3. FiveCards는 자동으로 reorder되므로 신경쓰지 않아도 됨.

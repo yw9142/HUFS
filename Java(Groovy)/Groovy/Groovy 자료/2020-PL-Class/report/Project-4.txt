@@ -1,0 +1,10 @@
+Project #4 
+제목 Groovy Sort Program(FiveCards)
+제출기한 2020-06-01(월)
+
+내용
+1. GroovySortClosure를 수정
+2. 기능은 Project#3와 같고 Comparator Class 대신 compare를 하는
+closure를 만든다
+
+

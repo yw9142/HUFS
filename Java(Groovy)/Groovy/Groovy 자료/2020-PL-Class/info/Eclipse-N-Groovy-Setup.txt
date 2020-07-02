@@ -1,0 +1,38 @@
+Eclipse, SVN, Groovy 설치
+
+1. https://www.eclipse.org/downloads/ 에서
+   eclipse-inst-win64.exe 다운로드, 실행
+   Eclipse IDE for Java Developer install --> installed at java-oxygen2 folder 
+ 
+2. Eclipse Groovy Plugin 설치
+   Help–>Install New Software
+   Add
+   Name — Groovy
+   Location– http://dist.springsource.org/snapshot/GRECLIPSE/e4.10
+   check Groovy-Eclipse
+
+3. SVN 설치
+   Help–>Install New Software
+   Add Button
+   Name: SVN Connector
+   Location: http://download.eclipse.org/technology/subversive/4.0/update-site/
+   OK...
+
+4. SVN 사용
+   Eclipe 오른쪽 위 코너에 작은 아이콘을 클릭해 Show text
+      그 왼쪽 Open Perspective에서 SVN Repository Ex.... 선택
+      오른쪽 클릭 New-->Repository Location
+   URL --> svn://220.67.121.119/PL2019
+   Username: guest Password:guest 
+   Project가 뜨면 원하는 Project를 선택해 Checkout한다.
+   Java로 돌아감.
+   Checkout 된 Java Project는 수시로 Right-click-->Team-->Update 한다
+
+5. Java(JDK) 설정
+   JDK 1.8 Download --> Java SE Development Kit 8u201 Download and Install
+   Install은 C:\pub\Java를 권장
+
+   Eclipse Window-->Preference-->Java-->Installed JRE
+   Add --> Standard VM  JDK 1.8 Install Directory 선택
+   
+
