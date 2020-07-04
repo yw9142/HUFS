@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1d5b3d6-0bd8-45b8-96b7-26291b14abdf" name="기본 변경 목록" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cAF8tGHI4qYFE75rDkqmBXufN0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../listsort" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\pyw08\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1d5b3d6-0bd8-45b8-96b7-26291b14abdf" name="기본 변경 목록" comment="" />
+      <created>1589963334357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589963334357</updated>
+      <workItem from="1589963336702" duration="751000" />
+      <workItem from="1590306115121" duration="333000" />
+      <workItem from="1590306489967" duration="3000" />
+      <workItem from="1590310198820" duration="644000" />
+      <workItem from="1590451280106" duration="144000" />
+      <workItem from="1590453329554" duration="238000" />
+      <workItem from="1590939950492" duration="54000" />
+      <workItem from="1591941428793" duration="342000" />
+      <workItem from="1591943375311" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1591943383207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1591943383207" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1590451421555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1590451421555" />
+    <state x="737" y="375" key="svn4idea.export.options" timestamp="1590939982786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="375" key="svn4idea.export.options/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1590939982786" />
+  </component>
+</project>
