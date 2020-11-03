@@ -1,5 +1,0 @@
-index	BOOK ID	BOOK NAME	PUBLISHER NAME	PUBLICATION DATE	AUTHOR NAME	Author Name	Author address	Author phone number	Author email	Author short biography
-0	1	1	1	1	1	1	1	1	1
-1	2	1	1	1	1	1	1	1	1
-2	3	2	2	2	2	2	2	2	2
-3	4	6	6	6	6	6	6	6	6

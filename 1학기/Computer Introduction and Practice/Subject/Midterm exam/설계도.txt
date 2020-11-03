@@ -1,0 +1,77 @@
+eClass를 통해 .c 파일 업로드
+
+/*
+ * 설계
+ * 1. ADD = 추가 (완성)
+ * 2. UPDATE = 인덱스를 입력받은 후에 수정할 정보를 추가로 받은 후 전체수정
+ * 3. DELETE = 삭제
+ * 4. SEARCH = BOOK ID 넣으면 INDEX return (완성)
+ * 5. DISPLAY =
+ * (1) 저자
+ * (2) 출판사
+ * (3) ALL
+ */  
+
+C로 메뉴 구동 라이브러리 관리 프로그램을 작성하십시오.
+
+ 
+
+프로그램은 다음 정보를 유지해야합니다.
+
+ 
+
+도서 ID
+
+책 이름
+
+발행일
+
+출판사 이름
+
+출판사 전화 번호
+
+저자 이름
+
+저자 이메일 주소
+ 
+
+
+프로그램은 다음 작업을 지원해야합니다.
+
+도서 정보 추가
+
+도서 정보 업데이트
+
+도서 정보 삭제
+
+도서 정보 검색
+
+저자 가 출판 한 책 목록을 표시합니다 .
+
+출판사에서 출판 한 책 목록을 표시합니다. p
+
+모든 책의 목록을 표시
+
+ 
+
+ 
+
+도서 ID는 고유해야합니다.
+
+도서 ID는 음수가 아니어야합니다.
+
+
+
+    switch (info) {
+        case 1:
+            printf("Please enter the student number to be changed : ");
+            scanf("%d", &BookID);
+            printf("Please enter the student number to be updated : ");
+            scanf("%d", &upBookID);
+
+            loc = findLoc(BookID);
+
+            if (loc != -1) {
+                Book_ID[loc] = upBookID;
+            } else
+                printf("***Error -- not found");
